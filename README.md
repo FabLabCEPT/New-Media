@@ -25,14 +25,37 @@ Est in consequat duis ex magna veniam amet aute esse laboris irure laboris sunt 
 
 ---
 
-## Assignments
+## Assignments and Expectations
 
-There will be three types os assignments in
+> For policies regarding assignments, please see the [Policies section below](#policies).
+
+There will be two types of assignments given out in this class.  **All are mandentory and due dates are strict to ensure proper credit is due.**
+
+###### Reading Assignments
+
+These will be a combination of short readings and small projects that *will require work outside of class*.  They are formulated so that you will be able to accomplish them with the help of FabLab CEPT and other local resources.
+**Due one week from assigned date.**  
+
+###### Projects
+
+These are multi-week assignments that will culminate in either a final or mid-term.  Students will have to self-pace for proper completion of the assignment.  
+**Due-date notified at time of assignment.**
+
 
 ## Schedule
 
 > For a more detailed, class-by-class breakdown, please see the class notes.
 
+This semester is made up of 15 classes (numbered 0-14), with one Final Jury.  Please note that two dates, which would normally have class, will be off due to Eid (29 July, 2014) and Diwali (21 October, 2014).  Below is a list of how the semester will be broken up with important dates noted.
+
+> Class **will be held** during Navratri.
+
+|Class                | Dates                      |
+|---------------------|----------------------------|
+| 0 - 7               | 22 July - 16 September     |
+| Mid-term (Class 8)  | 23 September               |
+| 9 - 14              | 30 September - 11 November |
+| Final Jury          | TDB                        |
 
 ---
 
