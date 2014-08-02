@@ -2,6 +2,10 @@
 
 ## Table of Contents
 
+* [Class 0](#class-0--hello-world-hello-markdown)
+
+https://github.com/FabLabCEPT/New-Media/tree/master/Lectures#class-0--hello-world-hello-markdown
+
 ---
 
 ## Class 0 : "Hello, World! Hello, Markdown!"
