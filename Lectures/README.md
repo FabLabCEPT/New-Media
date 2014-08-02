@@ -2,9 +2,8 @@
 
 ## Table of Contents
 
-* [Class 0](#class-0--hello-world-hello-markdown)
-
-https://github.com/FabLabCEPT/New-Media/tree/master/Lectures#class-0--hello-world-hello-markdown
+[Class 0](https://github.com/FabLabCEPT/New-Media/tree/master/Lectures#class-0--hello-world-hello-markdown)  
+[Class 1](https://github.com/FabLabCEPT/New-Media/tree/master/Lectures#class-1--computational-design-in-brief)
 
 ---
 
