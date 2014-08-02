@@ -19,9 +19,11 @@ FabLab CEPT
 
 ---
 
-Irure aliqua duis mollit duis incididunt. Exercitation reprehenderit deserunt ullamco consectetur ut et cillum reprehenderit nostrud ullamco Lorem nulla excepteur. Aliquip aute enim officia duis do est amet duis do sint enim. Occaecat ad velit adipisicing incididunt cillum non exercitation enim enim. Culpa eiusmod ex duis consequat magna magna est Lorem dolor ea anim pariatur eiusmod laboris. Consequat dolore eiusmod ut deserunt nisi consectetur quis reprehenderit. Dolore qui pariatur voluptate minim excepteur Lorem fugiat consequat esse veniam eiusmod nulla.
+*Computational Desgin*: modern, organic, complex; or so we are told.  
 
-Est in consequat duis ex magna veniam amet aute esse laboris irure laboris sunt tempor. Est quis dolor minim eu magna duis magna anim nisi irure Lorem cupidatat officia enim. Ullamco laborum magna ad non occaecat reprehenderit ullamco eiusmod. Enim cupidatat pariatur Lorem Lorem excepteur amet consequat elit irure adipisicing nulla. Irure laborum velit nostrud ex pariatur dolor. Do proident sint voluptate ad eu deserunt cillum. Dolor minim dolor sit irure id.
+Computational design is nothing new, it has been around for centuries, if not as long as there were designers.  Simply put, and in this faculty member's humble opinion, computational design is where *design* meets *everything else*. Other than that, it defies definition for it so many things at any one time.
+
+This course will be a conversation as well as a workshop which will cover some of the many topics and areas of study within computational design.  The goal is for students to develop an in-deapth understanding of the underlying concepts in this field, thus it will focus on theoretical issues, but will anchor these with hands-on activities and assignments.  One area of particular area of study will be *dia_logue systems*; these will be un-packed and discussed in depth.
 
 ---
 
@@ -31,9 +33,9 @@ Est in consequat duis ex magna veniam amet aute esse laboris irure laboris sunt 
 
 There will be two types of assignments given out in this class.  **All are mandentory and due dates are strict to ensure proper credit is due.**
 
-###### Reading Assignments
+###### Weekly Assignments
 
-These will be a combination of short readings and small projects that *will require work outside of class*.  They are formulated so that you will be able to accomplish them with the help of FabLab CEPT and other local resources.
+These will be a combination of short readings and small projects that *will require work outside of class*.  They are formulated so that you will be able to accomplish them with the help of FabLab CEPT and other local resources.  
 **Due one week from assigned date.**  
 
 ###### Projects
@@ -46,20 +48,33 @@ These are multi-week assignments that will culminate in either a final or mid-te
 
 > For a more detailed, class-by-class breakdown, please see the class notes.
 
-This semester is made up of 15 classes (numbered 0-14), with one Final Jury.  Please note that two dates, which would normally have class, will be off due to Eid (29 July, 2014) and Diwali (21 October, 2014).  Below is a list of how the semester will be broken up with important dates noted.
+This semester is made up of 16 classes (numbered 0-15), with one Final Jury.  Please note that due to Diwali, there will be no class on 20 October, 2014.  Below is a list of how the semester will be broken up with important dates noted.
 
 > Class **will be held** during Navratri.
 
-|Class                | Dates                      |
-|---------------------|----------------------------|
-| 0 - 7               | 22 July - 16 September     |
-| Mid-term (Class 8)  | 23 September               |
-| 9 - 14              | 30 September - 11 November |
-| Final Jury          | TDB                        |
+| Class                                  | Date         | Notes          |
+|----------------------------------------|--------------|----------------|
+| 0 : Hello, World!  Hello, Markdown!    | 21 July      | virtual class  |
+| 1                                      | 28 July      | **No class**   |
+| 2                                      | 4 August     | **No class**   |
+| 3 : Computational Design (in breif)    | 11 August    |                |
+| 4 :                                    | 18 August    |                |
+| 5 : Tell me what to do!                | 25 August    |                |
+| 6 : Shape Grammars in 2D               | 1 September  |                |
+| 7 : Shape Grammars in 3D               | 8 September  |                |
+| 8 : A ~~Murder~~ Mid-Term is Announced | 15 September |                |
+| 9 : **Mid-Term**                       | 22 September | Meet at FT-303 |
+| 10 | 29 September |  |
+| 11 | 6 October    |  |
+| 12 | 13 October   |  |
+| 13 | 27 October   |  |
+| 14 | 3 November   |  |
+| 15 | 10 November  |  |
+| **Final Jury**                         | TBA          | Location TBA   |
 
 ---
 
-## Policies
+## Policies, et al.
 
 ### Attendance & Due Dates
 
@@ -109,9 +124,12 @@ Any questions about citation, research, or those in regards to this policy shoul
 
 *This policy is heavily influenced by those of MIT (Cambridge, MA).  For more information see ```integrity.mit.edu```.*
 
-
 ### Code of Conduct
 
 All students (and others) are required to treat themselves, those around them, their environment with the upmost respect.  Discrimination, harassment, violance, etc. of any kind, is unacceptable and **will be handled with all seriousness**.  
 
 Any questions in regards to this policy should be referred to ```fablab@cept.ac.in```.
+
+### License  
+
+TBA
