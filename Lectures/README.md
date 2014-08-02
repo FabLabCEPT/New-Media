@@ -15,9 +15,9 @@ Markdown (```.md``` or ```.markdown```) is a *human-readable* text format that i
 * [GitHub-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Don't forget the **emojis**!](http://www.emoji-cheat-sheet.com/) :smiley:
 
----
-
 ### Assignment : "Hello, Markdown!"
+
+> Due: 1 August, 2014  -- 23:59
 
 So, I want to learn about you, and you [obviously] want to learn some Markdown -- the only solution is this assignment!
 
@@ -59,5 +59,10 @@ Here is ~~a sample~~ my version.  Please use it (and feel free to change it... j
 
     ![flocking paths](flockingpaths_0.png)
 
+---
 
 ## Class 1 : Computational Design (in brief)
+
+---
+
+## Class 2 :
