@@ -59,17 +59,17 @@ This semester is made up of 16 classes (numbered 0-15), with one Final Jury.  Pl
 | 2                                      | 4 August     | **No class**   |
 | 3 : Computational Design (in breif)    | 11 August    |                |
 | 4 :                                    | 18 August    |                |
-| 5 : Tell me what to do!                | 25 August    |                |
-| 6 : Shape Grammars in 2D               | 1 September  |                |
-| 7 : Shape Grammars in 3D               | 8 September  |                |
-| 8 : A ~~Murder~~ Mid-Term is Announced | 15 September |                |
+| 5 :                                    | 25 August    |                |
+| 6 :                                    | 1 September  |                |
+| 7 :                                    | 8 September  |                |
+| 8 :                                    | 15 September |                |
 | 9 : **Mid-Term**                       | 22 September | Meet at FT-303 |
-| 10 | 29 September |  |
-| 11 | 6 October    |  |
-| 12 | 13 October   |  |
-| 13 | 27 October   |  |
-| 14 | 3 November   |  |
-| 15 | 10 November  |  |
+| 10 : | 29 September |  |
+| 11 : | 6 October    |  |
+| 12 : | 13 October   |  |
+| 13 : | 27 October   |  |
+| 14 : | 3 November   |  |
+| 15 : | 10 November  |  |
 | **Final Jury**                         | TBA          | Location TBA   |
 
 ---
