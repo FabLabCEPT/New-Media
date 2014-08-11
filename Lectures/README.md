@@ -57,9 +57,11 @@ Markdown (```.md``` or ```.markdown```) is a *human-readable* text format that i
 
 #### Assignment 1 : Readings
 
-> Due: 08:30 IST - 11 August, 2014
+> Due: 14:30 IST - 11 August, 2014
 
-* [Godel, Echer, Bach -- Formal Systems]()
-* [Shape Grammars]()
+* [Godel, Echer, Bach -- Formal Systems](Content/TheMU-Puzzle.pdf)
+    * When asked to, try the "MU Puzzle"
+* [Shape Grammars and the Generative Specification of Painting and Sculpture](Content/ShapeGrammarsAndTheGenerativeSpecificationOfPaintingAndSculpture.pdf)
+* [Classical and Non-Classical Computation](Content/ClassicalAndNonClassicalComputation.pdf)
 
 ---
