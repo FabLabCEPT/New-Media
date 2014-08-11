@@ -5,7 +5,7 @@
 - [Class 0 : "Hello, World!  Hello, Class!  Hello, Markdown!"](#user-content-class-0--hello-world--hello-class--hello-markdown)
 - [Class 1](#user-content-class-1)
 - [Class 2](#user-content-class-2)
-- [Class 3 : Making Volume](#user-content-class-3--what-is-computational-design)
+- [Class 3 : What is "Computational Design"?](#user-content-class-3--what-is-computational-design)
 
 ---
 
