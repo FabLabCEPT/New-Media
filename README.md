@@ -27,6 +27,36 @@ This course will be a conversation as well as a workshop which will cover some o
 
 ---
 
+## Schedule
+
+> For a more detailed, class-by-class breakdown, please see the class notes.
+
+This semester is made up of 16 classes (numbered 0-15), with one Final Jury.  Please note that due to Diwali, there will be no class on 20 October, 2014.  Below is a list of how the semester will be broken up with important dates noted.
+
+> Class **will be held** during Navratri.
+
+| Class                                               | Date         | Notes          | Assignment                            |
+|-----------------------------------------------------|--------------|----------------|---------------------------------------|
+| 0 : [Hello, World!  Hello, Markdown!](class0.md)    | 21 July      | virtual class  | [Assignment 0](class0.md#assignment)  |
+| 1                                                   | 28 July      | **No class**   |                                       |
+| 2                                                   | 4 August     | **No class**   |                                       |
+| 3 : [Computational Design (in breif) ](class3.md)   | 11 August    |                | [Assignment 3](class3.md#assignment)  |
+| 4 : [Formal Systems & Shape Grammars](class4.md)    | 18 August    |                | [Assignment 4](class4.md#assignment)  |
+| 5 :                                                 | 25 August    |                |                                       |
+| 6 :                                                 | 1 September  |                |                                       |
+| 7 :                                                 | 8 September  |                |                                       |
+| 8 :                                                 | 15 September |                |                                       |
+| 9 : **Mid-Term**                                    | 22 September | Meet at FT-303 |                                       |
+| 10 :                                                | 29 September |                |                                       |
+| 11 :                                                | 6 October    |                |                                       |
+| 12 :                                                | 13 October   |                |                                       |
+| 13 :                                                | 27 October   |                |                                       |
+| 14 :                                                | 3 November   |                |                                       |
+| 15 :                                                | 10 November  |                |                                       |
+| **Final Jury**                                      | TBA          | Location TBA   |                                       |
+
+---
+
 ## Assignments and Expectations
 
 > For policies regarding assignments, please see the [Policies section below](#policies).
@@ -42,35 +72,6 @@ These will be a combination of short readings and small projects that *will requ
 
 These are multi-week assignments that will culminate in either a final or mid-term.  Students will have to self-pace for proper completion of the assignment.  
 **Due-date notified at time of assignment.**
-
-
-## Schedule
-
-> For a more detailed, class-by-class breakdown, please see the class notes.
-
-This semester is made up of 16 classes (numbered 0-15), with one Final Jury.  Please note that due to Diwali, there will be no class on 20 October, 2014.  Below is a list of how the semester will be broken up with important dates noted.
-
-> Class **will be held** during Navratri.
-
-| Class                                  | Date         | Notes          |
-|----------------------------------------|--------------|----------------|
-| 0 : Hello, World!  Hello, Markdown!    | 21 July      | virtual class  |
-| 1                                      | 28 July      | **No class**   |
-| 2                                      | 4 August     | **No class**   |
-| 3 : Computational Design (in breif)    | 11 August    |                |
-| 4 :                                    | 18 August    |                |
-| 5 :                                    | 25 August    |                |
-| 6 :                                    | 1 September  |                |
-| 7 :                                    | 8 September  |                |
-| 8 :                                    | 15 September |                |
-| 9 : **Mid-Term**                       | 22 September | Meet at FT-303 |
-| 10 : | 29 September |  |
-| 11 : | 6 October    |  |
-| 12 : | 13 October   |  |
-| 13 : | 27 October   |  |
-| 14 : | 3 November   |  |
-| 15 : | 10 November  |  |
-| **Final Jury**                         | TBA          | Location TBA   |
 
 ---
 
