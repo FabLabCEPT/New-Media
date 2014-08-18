@@ -12,20 +12,14 @@
 
 ##Notes
 
-### Markdown
-
-* [stackedit.io](http://stackedit.io)  
-* [stackedit.io beta (it's new!)](https://stackedit-beta.herokuapp.com/#)
-
----
-
 ### Shape Grammars
 
 > "Shape grammars perform computations with shapes..."  
 
-> *From [shapegrammars.org](http://www.shapegrammar.org/intro.html)*
+> *From [shapegrammar.org](http://www.shapegrammar.org/intro.html)*
 
 * [shapegrammar.org](http://www.shapegrammar.org/)
+* [Transformations](http://www.coedu.usf.edu/main/departments/sped/PROPEL/documents/MicrosoftWord-Transformations.pdf)
 * The Ambiguity of Shape
     ![The Ambiguity of Shape](Content/sg_ambShapes.png)
 * Formalization
