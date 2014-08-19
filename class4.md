@@ -12,6 +12,28 @@
 
 ##Notes
 
+### Formal Systems
+
+* The MU system from [Godel, Escher, Bach](Content/TheMU-Puzzle.pdf)
+
+### The Ambiguity of Shape
+
+What do you see?  
+![The Ambiguity of Shape](Content/sg_ambShapes.png)
+
+### An Algebra for *Shape*
+
+![Transformations](Content/transformations.png)
+* [Transformations](http://www.coedu.usf.edu/main/departments/sped/PROPEL/documents/MicrosoftWord-Transformations.pdf)
+
+Add, Delete, Copy
+![Add, Delete, Copy](Content/addDeleteCopy.png)
+
+### Spacial Relationships
+
+* ~~World Coordinate System~~  
+* Chairs
+
 ### Shape Grammars
 
 > "Shape grammars perform computations with shapes..."  
@@ -19,9 +41,8 @@
 > *From [shapegrammar.org](http://www.shapegrammar.org/intro.html)*
 
 * [shapegrammar.org](http://www.shapegrammar.org/)
-* [Transformations](http://www.coedu.usf.edu/main/departments/sped/PROPEL/documents/MicrosoftWord-Transformations.pdf)
-* The Ambiguity of Shape
-    ![The Ambiguity of Shape](Content/sg_ambShapes.png)
+
+
 * Formalization
     * &#8594; (the single arrow) == a rule
     * &#8649; (the double arrow) == a computation... step-by-step
@@ -37,8 +58,7 @@
 
 ## Assignment
 
-> Due: 14:30 IST - 19 August, 2014
+> Due: Next Class (14:30 IST - 25 August, 2014)
 
-1. Author five (5) rules
-2. For each Rule: Perform five (5) computations with **at least** 10-20 steps
-3. Take one (1) *final shape* from one of the computations: create an *artistic interpritation* of the shape
+1. [Worksheet](newMedia_worksheet0.pdf) (print out and turn in)
+2. Readings from last week.
