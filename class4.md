@@ -1,6 +1,6 @@
 # Class 4 : Formal Systems & Shape Grammars
 
-![Antlers (section)](Content/shapeGrammars_0.png)
+![Antlers (section)](Content/GreekCross_0.png)
 
 ## Schedule
 
