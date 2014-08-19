@@ -60,5 +60,5 @@ Add, Delete, Copy
 
 > Due: Next Class (14:30 IST - 25 August, 2014)
 
-1. [Worksheet](newMedia_worksheet0.pdf) (print out and turn in)
+1. [Worksheet](Content/newMedia_worksheet0.pdf) (print out and turn in)
 2. Readings from last week.
