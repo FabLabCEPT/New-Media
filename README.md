@@ -42,8 +42,8 @@ This semester is made up of 16 classes (numbered 0-15), with one Final Jury.  Pl
 | 2                                                   | 4 August     | **No class**   |                                       |
 | 3 : [Computational Design (in breif) ](class3.md)   | 11 August    |                | [Assignment 3](class3.md#assignment)  |
 | 4 : [Formal Systems & Shape Grammars](class4.md)    | 18 August    |                | [Assignment 4](class4.md#assignment)  |
-| 5 :                                                 | 25 August    |                |                                       |
-| 6 :                                                 | 1 September  |                |                                       |
+| 5 : [MUIUIU](class5.md)                             | 25 August    |                | [Assignment 5](class5.md#assignment)  |
+| 6 : [copycopycopycopycopycopycopycopy](class6.md)   | 1 September  |                |                                       |
 | 7 :                                                 | 8 September  |                |                                       |
 | 8 :                                                 | 15 September |                |                                       |
 | 9 : **Mid-Term**                                    | 22 September | Meet at FT-303 |                                       |

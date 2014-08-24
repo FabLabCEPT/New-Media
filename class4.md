@@ -4,11 +4,9 @@
 
 ## Schedule
 
-1. Hello, Class!
-2. Markdown, redux
-3. Student Introductions
-4. Intro to Shape Grammars
-5. Assignment 2
+1. Hello
+2. The Makings of Shape Grammars
+3. Assignment
 
 ##Notes
 
